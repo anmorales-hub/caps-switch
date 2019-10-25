@@ -1,0 +1,12 @@
+def meme():
+        output = input("Text? ")
+        output2= ""
+        for i in range(len(output)):
+            if i%2 == 0:
+                output2 += output[i]
+            else:
+                output2 += output[i].upper()
+        return output2
+    
+
+print(meme())
