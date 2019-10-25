@@ -6,7 +6,4 @@ def meme():
                 output2 += output[i]
             else:
                 output2 += output[i].upper()
-        return output2
-    
-
-print(meme())
+        print(output2)
