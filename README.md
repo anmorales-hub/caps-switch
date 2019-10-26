@@ -1,4 +1,4 @@
-# spongebird
-basic bird spongebob meme text converter (python)
+# Caps Switch
+alternates lower and upper case letters in a lowercase string input (python)
 
-this is the first version and I'll be doing my best to improve and optimize
+Working to optimize
